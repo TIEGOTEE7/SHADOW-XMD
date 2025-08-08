@@ -9,7 +9,7 @@ This is a WhatsApp bot built using the Baileys library for group management,g fe
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@SHADOW_TEE_OFC"> 
+  <a href="https://www.youtube.com/@tiegotee7"> 
     <img src="https://github.com/mruniquehacker/Knightbot-MD/blob/main/assets/bot_image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
@@ -74,10 +74,10 @@ For further customization and setup guidance, click the button below:
 ### 𝗝𝗢𝗜𝗡 𝗨𝗦
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+  <a href="https://t.me/+3QhFUZHx-nhhZfjb61">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+  <a href="https://whatsapp.com/channel/0029VbBE8ErLSmbWhLrLkR0v">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
